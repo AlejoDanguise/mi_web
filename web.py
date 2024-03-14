@@ -10,7 +10,7 @@ def agregar_tarea():
 
 st.title("Tareas Pendientes App")
 st.subheader("Esta es mi app")
-st.write("sdasdgsd")
+st.write("by Alejo")
 
 
 for index,tarea in enumerate(tareas):
